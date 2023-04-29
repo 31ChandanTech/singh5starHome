@@ -1,0 +1,104 @@
+.HourLoc {
+  margin: 50px 0 0 0;
+  text-align: center;
+}
+.HourLoc h2 {
+  text-decoration: none;
+  margin: 0 0 50px 0;
+}
+.HourLoc p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  margin: 20px 0;
+}
+.HourLoc p b {
+  text-decoration: none;
+  font-size: 18px;
+}
+.HourLoc p a {
+  color: #000;
+  cursor: pointer;
+}
+
+/* cONTACT and jobs COMPONENT CSS */
+
+.contact,
+.jobs {
+  margin: 50px 0;
+  text-align: center;
+}
+.contact h2,
+.jobs h2 {
+  text-decoration: none;
+}
+.form {
+  width: 50vw;
+  margin: auto;
+}
+.form .inputBox {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px 0;
+}
+.form .inputBox label {
+  font-size: 14px;
+  font-weight: 700;
+}
+.form .inputBox label i {
+  color: #500303;
+}
+.form .inputBox input,
+select {
+  width: 100%;
+  height: 40px;
+  outline: none;
+  border: 0.5px solid black;
+  border-radius: 6px;
+  padding: 0 10px;
+  font-size: 18px;
+}
+.form .inputBox input[type="file"] {
+  width: 100%;
+  height: 40px;
+  outline: none;
+  border: none;
+}
+.form .hideCv {
+  display: none;
+}
+.form .inputBox textarea {
+  width: 100%;
+  height: 120px;
+  outline: none;
+  border-radius: 6px;
+  padding: 10px 10px;
+  font-size: 18px;
+  resize: none;
+}
+
+/* dresscode component css */
+
+.dresscode {
+  width: 50vw;
+  height: 80vh;
+  margin: 50px auto;
+  text-align: center;
+}
+.dresscode h2 {
+  text-decoration: none;
+}
+.dresscode p {
+  margin: 35px 0;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 2px;
+}
+
+@media only screen and (max-width: 600px) {
+  .form {
+    width: 95vw;
+  }
+}

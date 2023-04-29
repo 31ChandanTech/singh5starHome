@@ -1,0 +1,22 @@
+[
+    {
+        "id": 61,
+        "title": "BRUNCH",
+        "list" : ["Available Saturday, May 13th - Sunday, May 14th | 11AM-2PM","CHARRED SUMMER CORN BHEL 18","Creamy Green Chili Chutney, Spiced Crispy Corn, Pomegranate","MAINE TO MUMBAI 28","Lobster Roll, Masala Mayo, Spicy Tomato Dip, Taro Chips","BACON NAAN ROLL 20","Thick Cut Bacon, Spiced Maple, Fried Egg","KAL DOSA 20","Soft Rice & Lentil Pancakes, Coconut Chutney"]
+    },
+    {
+        "id": 62,
+        "title": "DINNER",
+        "list" : ["Available Friday, May 12th - Sunday, May 14th | 5PM-10PM","CHARRED SUMMER CORN BHEL 18","Creamy Green Chili Chutney, Spiced Crispy Corn, Pomegranate","LOBSTER KHICHDI 32","Creamy Seafood Rice, Rice Papad","GREEN CHILI CHICKEN TIKKA 28","Charcoal Roasted Chicken, Spring Salad"]
+    },
+    {
+        "id": 63,
+        "title": "DESSERT",
+        "list" : ["MANGO MACARON SUNDAE 12","Mango Ice Cream, Rose Syrup, Basil Seeds, Milk Cake"]
+    },
+    {
+        "id": 64,
+        "title": "COCKTAILS & MOCKTAILS",
+        "list" : ["MAJESTY MAGENTA 21","Smoke Lab Vodka, Elderflower, Combier Rose Liqueur, Lemon","MADAME MARIGOLD 14","Orange Juice, Pineapple Juice, Mint, Lime"]
+    }
+]

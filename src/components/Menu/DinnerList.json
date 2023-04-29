@@ -1,0 +1,47 @@
+[
+    {
+        "id": 11,
+        "title": "TO START",
+        "list" : ["AVOCADO PAPDI CHAAT 18","Masala Guacamole, Crispy Taro Chips (VG, GF)","ROASTED PAPAD & CHUTNEYS (V, GF) 8","Variety of Lentil and Rice Crackers with Dips"]
+    },
+    {
+        "id": 12,
+        "title": "SMALL PLATES",
+        "list" : ["BENGALI BEET CHOP 18","Roasted Red Beet Croquettes, Kasundi Mayo (V)*","THECHA PANEER TIKKA 22", "Riverrine Ranch Buffalo Milk Cheese, Spicy Peanut Green Chili Chutney (V, GF)","SHRIMP KOLIWADA 28","Popcorn Style Fritters, Pickled Mango Sauce (GF)","BRISKET SHAMI KEBAB 22","Ground Beef, Chana Dal, Garam Masala","SPRING CHICKPEA SALAD 16","Endive, Purple Radish, Snap Peas, Toasted Coconut (V)*","AAM PANNA CRUDO 22","Cured Hamachi Crudo, Green Mango, Cucumber, Fermented Chili (GF)","ROASTED OYSTERS 20","Green Butter Roasted Oysters (1/2 Dozen)"]
+    },
+    {
+        "id": 13,
+        "title": "THE SINGH PIZZA 24",
+        "list" : ["CHICKEN TIKKA","Burrata, Roasted Tomato Sauce","CHILI PANEER","Spiced Paneer, Jalapeno (V)","TRUFFLE MALAI MUSHROOM","Ricotta, Wild Mushroom Medley (V)"]
+    },
+    {
+        "id": 14,
+        "title": "FROM THE GRILL",
+        "list" : ["PUNJABI ROAST CHICKEN 38","Roast Sundance Farm Chicken, Roasted Garlic Yogurt (GF)","VINDALOO BBQ PORK RIBS 42","Sticky Chili Glaze, Mango, Pickled Onion (GF)","TAMARIND LAMB CHOPS 49","Smoked Chili, Fennel Slaw, Garlic Raita (GF)","GRILLED KASUNDI BRANZINO 48","Green Chili, Mustard Cream Sauce (GF)","MALABAR PEPPERCORN STEAK 48","Tender Bavette Steak, Wild Mushrooms, Spiced Jus (GF)"]
+    },
+    {
+        "id": 15,
+        "title": "ENTRÉE",
+        "list" : ["ANDHRA VEGETABLE CURRY 28","Seasonal Vegetables, Gongura Leaves, Coconut (V, GF)","SARSON KA SAAG 28","Punjabi Mustard Greens, Corn Roti (V)*","TRAVANCORE TOMATO DAL 24","Fermented Lentil Fritters, Curry Leaf Tadka (VG)","FLOYD’S GOAN FISH CURRY 36","Coconut Clam Broth, Kokum, Red Rice (GF)","BURRATA BUTTER CHICKEN 34","Tandoor Roasted Chicken, Creamy San Marzano Tomato Butter Masala (GF)","RAILWAY MUTTON MASALA 42","Slow Cooked Lamb Shoulder, Baby Potatoes (GF)"]
+    },
+    {
+        "id": 16,
+        "title": "VEGETABLES",
+        "list" : ["GRILLED EGGPLANT 26","Smoked Eggplant Chokha, Heirloom Tomato Salad (VG, GF)","ROASTED CAULIFLOWER 26","Turmeric, Green Chili, Indian Cheddar Cheese (V, GF)","RAJASTANI OKRA 26","Crisp Masala Okra, Yogurt Sauce (V, GF)","WILD MUSHROOM PEPPER ROAST 28","Spicy Chettinad Masala (VG, GF)"]
+    },
+    {
+        "id": 17,
+        "title": "BIRIYANI",
+        "list" : ["KOLKATA LAMB BIRIYANI 42","Saffron Yakhni Rice, Steamed Potatoes, Raita (GF)","HYDERABADI CHICKEN BIRIYANI 34","Saffron Rice, Mint, Crispy Onions (GF)","AWADHI VEGETABLE BIRYANI 32","Saffron Rice, Seasonal Vegetable, Raita (V, GF)"]
+    },
+    {
+        "id": 18,
+        "title": "BREADS",
+        "list" : ["NAAN (V)","Butter 8 | Garlic 8 | Chili Cheese 10","MULTIGRAIN ROTI (VG) 8","BUTTER CHICKEN KULCHA 10"]
+    },
+    {
+        "id": 19,
+        "title": "ACCOMPANIMENTS",
+        "list" : ["RICE (VG, GF)5","Steamed Basmati | Goan Red Rice","RAITA (GF) 6","Roasted Eggplant | Cucumber","PICKLE PLATE (VG, GF) 6","House Made Pickled Radish, Carrots & Green Mango"]
+    }
+]

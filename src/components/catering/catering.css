@@ -1,0 +1,169 @@
+.catering {
+  text-align: center;
+}
+.catering h2 {
+  width: 50vw;
+  text-decoration: none;
+  margin: 20vh auto 20px auto;
+}
+.catering p {
+  width: 50vw;
+  margin: 0 auto 30px auto;
+  line-height: 20px;
+  font-size: 15px;
+}
+.catering .imageSlider {
+  width: 100%;
+  margin: 30px 0 0 0;
+  position: relative;
+  z-index: 1;
+}
+.catering .imageSlider img {
+  width: 100%;
+  height: 75vh;
+}
+.catering .imageSlider .forward {
+  position: absolute;
+  top: 50%;
+  right: 5px;
+  z-index: 9;
+  color: red;
+  font-weight: bold;
+  font-size: 50px;
+  cursor: pointer;
+}
+.catering .imageSlider .backward {
+  position: absolute;
+  top: 50%;
+  left: 5px;
+  z-index: 9;
+  color: red;
+  font-weight: bold;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+/* Form css */
+
+.catering_form {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+  padding: 100px 0;
+  overflow-y: scroll;
+}
+.catering_form_Cnone {
+  display: none;
+}
+.catering_form::-webkit-scrollbar {
+  display: none;
+}
+.catering_form .Ccross {
+  font-size: 50px;
+  color: #fff;
+  position: absolute;
+  top: 10px;
+  right: 35px;
+  cursor: pointer;
+  transition: 0.3s ease-in;
+}
+.catering_form .Ccross:hover {
+  color: red;
+}
+.catering_form .Cform {
+  width: 50vw;
+  margin: auto;
+}
+.catering_form .Cform .CinputBox {
+  width: 100%;
+  margin: 6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.catering_form .Cform .CinputBox label {
+  color: #fff;
+  font-size: 18px;
+}
+.catering_form .Cform .CinputBox label span {
+  color: red;
+  font-size: 20px;
+}
+.catering_form .Cform .DisplayFlex {
+  display: flex;
+}
+.catering_form .Cform .CinputBox input,
+textarea {
+  width: 100%;
+  height: 35px;
+  border: 0.5px solid blue;
+  border-radius: 6px;
+  outline: none;
+  padding: 0 20px;
+}
+.catering_form .Cform .CinputBox textarea {
+  height: 120px;
+  resize: none;
+  padding: 10px 20px;
+}
+
+.CCbtn {
+  padding: 15px 20px;
+  background: none;
+  border: 1px solid #ffffff;
+  border-radius: 25px;
+  transition: 0.3s ease-in;
+  cursor: pointer;
+  color: #fff;
+  font-size: 18px;
+}
+.CCbtn:hover {
+  border: 1px solid red;
+  color: #08f327;
+}
+
+@media only screen and (max-width: 1103px) {
+  .catering_form .Cform {
+    width: 80vw;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 702px) {
+  .catering h2 {
+    width: 100%;
+    font-size: 8vw;
+    padding: 0 5px;
+  }
+  .catering p {
+    width: 100%;
+    padding: 0 5px;
+  }
+}
+@media only screen and (max-width: 689px) {
+  .catering_form .Cform {
+    width: 95vw;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .catering .imageSlider img {
+    width: 100%;
+    height: 35vh;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .catering_form .Cform .DisplayFlex {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media only screen and (max-width: 344px) {
+  .CCbtn {
+    line-height: 20px;
+  }
+}

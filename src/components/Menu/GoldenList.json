@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "FIRST COURSE",
+    "list": [
+      "Choice of One",
+      "BENGALI BEET CHOP",
+      "Winter Vegetables, Potatoes, Kasundi Mayo (V)*",
+      "SHRIMP KOLIWADA",
+      "Popcorn Style Fritters, Pickled Mango Sauce (GF)",
+      "Special PIZZA",
+      "Choice of Tandoori Chicken or Paneer"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "MAIN COURSE",
+    "list": [
+      "Choice of One",
+      "ANDHRA VEGETABLE CURRY",
+      "Seasonal Vegetables, Gongura Leaves, Coconut (V, GF)",
+      "VINDALOO BBQ PORK RIBS",
+      "Sticky Chili Glaze, Mango, Pickled Onion (GF)",
+      "BURRATA BUTTER CHICKEN",
+      "Tandoor Roasted Chicken, Creamy Tomato Sauce (GF)",
+      "GOAN FISH CURRY",
+      "Coconut Clam Broth, Kokum, Red Rice (GF)"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "TAKEAWAY DESSERT",
+    "list": ["Chocolate Dipped Pistachio Shortbread Cookies"]
+  },
+  {
+    "id": 4,
+    "title": "COCKTAILS +17",
+    "list": [
+      "MIMI'S MARGARITA",
+      "Milagro Silver Tequila, Chile Liqueur, Lime, Bird’s Eye Chili, Cilantro, Agave",
+      "SPA DAY",
+      "Smoke Lab Vodka, Aloe, Cucumber, Lime, Simple, Club Soda",
+      "GOLD NEGRONI",
+      "Jaisalmer Gin, Pamplemousse Liqueur, Saffron Liqueur, Sweet Vermouth, Dry Vermouth",
+      "75 SUITORS",
+      "Jin-Jiji India Dry Gin, Aperol, Strawberry, Rosemary, Lemon, Eau de Rose, Simple, Prosecco"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "SPIRIT SHY +6",
+    "list": [
+      "PEACH PLEASE",
+      "Peach Puree, Honey, Lime, Ginger Beer",
+      "MANGO LASSI",
+      "Mango Puree, Yogurt"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "WINE BY THE GLASS +15",
+    "list": [
+      "Bodegas Muga, Rioja Rosado, SP (2021) Garnacha, Tempranillo",
+      "Framingham, Marlborough, NZ (2021) Sauvignon Blanc",
+      "Altos Ibericos, Rioja, Crianza, SP (2017) Tempranillo"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "BEER +7",
+    "list": ["STELLA ARTOIS | ABV 5.2%", "FOUNDERS CENTENNIAL IPA | ABV 7.2%"]
+  }
+]

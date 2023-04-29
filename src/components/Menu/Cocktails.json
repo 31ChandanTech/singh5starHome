@@ -1,0 +1,27 @@
+[
+    {
+        "id": 31,
+        "title": "SPIRIT FORWARD",
+        "list" : ["THE OTHER WOMAN 25","Banhez Mezcal, Laphroaig 10yr Islay Scotch, Blackened Bird’s Eye Chili Tincture, Grapefruit Bitters, Agave","STARDUST 22","Kansas Whiskey, Elderflower Liqueur, Amaro Montenegro","DEEP IN LOVE 20","Casamigos Reposado, Cachaca, Rose Liqueur, Hisbiscus Syrup, Black Salt","GOLD NEGRONI 19","Jaisalmer Gin, Pamplemousse Liqueur, Saffron Liqueur, Sweet Vermouth, Dry Vermouth","75 SUITORS 19","Jin-Jiji India Dry Gin, Aperol, Strawberry, Rosemary, Lemon, Eau de Rose, Simple, Prosecco","MIMI'S MARGARITA 20","Milagro Silver Tequila, Chile Liqueur, Lime, Bird’s Eye Chili, Cilantro, Agave","THE GIRL FROM GOA 22","Genepy Herbetet, Lychee Liqueur, Darjeeling Tea, Lemon, Ginger, Black Peppercorn, Honey, Paprika","KUCHIPUDI 24","Mezcal, Elderflower Liqueur, Wasabi, Ginger, Bird’s Eye Chili, Mint, Buzz Button, Lime, Agave","SPA DAY 19","Smoke Lab Vodka, Aloe, Cucumber, Lime, Simple, Club Soda","SMOKED FASHION 20","Old Grand Dad Bourbon Whiskey, Demerara, Angostura, and Orange Bitters"]
+    },
+    {
+        "id": 32,
+        "title": "SPIRIT SHY 14",
+        "list" : ["PEACH PLEASE","Peach Puree, Honey, Lime, Ginger Beer","THE LYCHEE LIBRA", "Rosemary Infused Butterfly Pea Tea, Lychee, Lemonade","MANGO MALAI","Mango Puree, Yogurt","KOKUM MOJITO","Kokum, Mint, Lime, Simple, Soda"]
+    },
+    {
+        "id": 33,
+        "title": "GIN & TONICS 22",
+        "list" : ["NO. 1*","Bombay Sapphire Gin, French Ginger Liqueur, Saffron, Cinnamon, Peppercorn, Eau de Orange Blossom","NO. 2*","Empress Gin, Lychee Liqueur, Lychee, Lemon, Honey","NO. 3*","Jin-JiJi India Dry Gin, Elderflower Liqueur, Grapefruit, Mint","NO. 4*","Hendricks Gin, Berries, Rose Liqueur, Cynar, Lemon","*Keep the Straw? +7"]
+    },
+    {
+        "id": 34,
+        "title": "BEER",
+        "list" : ["KINGFISHER PALE LAGER, ABV 4.8% | 8","FOUNDERS CENTENNIAL IPA, ABV 7.2% | 9","SAISON DUPONT BELGIUM ALE, ABV 6.5% | 10","STELLA ARTOIS, ABV 5.2% | 8","HEINEKEN ZERO, ABV 0.0% | 7"]
+    },
+    {
+        "id": 35,
+        "title": "WINE BY THE GLASS",
+        "list" : ["SPARKLING","Jeio, Prosecco, Veneto, IT (NV) 19/75","Fiol Rosé, Prosecco, Veneto, IT (2020) 20/80","Louis de Sacy, Brut Originel, Champagne, FR (NV) 27/108","La Battagliola, Lambrusco, Grasparossa, (2021) 19/75","ROSE","Peyrassol La Croix, Provance, FR (2021) Rosé 20/80","Bodegas Muga, Rioja Rosado, SP (2021) Garnacha, Tempranillo 20/80","WHITE","Pago del Cielo, Rueda, SP (2020) Verdejo 18/72","Framingham, Marlborough, NZ (2021) Sauvignon Blanc 21/84","Domaine Luquet, Saint-Véran, Bourgogne, FR (2020) Chardonnay 21/84","Von Kisel, Austria (2020) Gruner Veltliner 19/76","RED","Côte Saint Jacques, Bourgogne, FR (2020) Pinot Noir 23/92","Domaine du Beaurenard, Côtes du Rhône, FR (2021) Grenache/Syrah 21/85","Altos Ibéricos, Rioja Crianza, SP (2017) Tempranillo 19/76","Silvan Ridge Winery, Rogue Valley, Oregon (2018) Cabernet Sauvignon 24/96"]
+    }
+]

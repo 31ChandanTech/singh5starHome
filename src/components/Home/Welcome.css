@@ -1,0 +1,40 @@
+.welcome_sect {
+  height: 100vh;
+  margin: 15px auto;
+  background: url("https://img.pikbest.com/png-images/qianku/summer-decorative-flower-frame-border_2282014.png!bw700");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 120px 25%;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: 400;
+  text-decoration: underline;
+  color: #3d3a3a;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  color: #292828;
+  margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 900px) {
+  .welcome_sect {
+    width: 95%;
+    margin: 15px auto;
+  }
+}
+@media only screen and (max-width: 783px) {
+  .welcome_sect {
+    background-size: cover;
+  }
+}

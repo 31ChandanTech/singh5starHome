@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  background: linear-gradient(
+    rgba(225, 225, 225, 0.5),
+    rgba(225, 225, 225, 0.5)
+  );
+  font-family: "Josefin Sans", sans-serif;
+}

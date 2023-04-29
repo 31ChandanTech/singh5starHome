@@ -1,0 +1,243 @@
+[
+  {
+    "id": 41,
+    "title": "FOR THE TABLE",
+    "list": [
+      "ROASTED PUMPKIN CHILI SALAD 20",
+      "Masala Chena, Pumpkin Seeds, Mixed Greens",
+      "TIKKA FLATBREAD 24",
+      "Burrata, Choice Of Tandoor Roasted Chicken Or Paneer (V)",
+      "SPICE CURED SALMON 26",
+      "House Cured Gravlax, Everything Bagel Seasoned Naan, Creme Fraiche",
+      "OLD DELHI CHOLE TIKKI CHAAT 18",
+      "Slow Cooked Chickpeas, Smashed Potato Patty, Yogurt, Chutneys (V)"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "EGGS",
+    "list": [
+      "OMELETTE 22",
+      "Three Eggs, Masala And Herbs, Gruyere Cheese, Mixed Greens (GF)",
+      "EGG DOSA 24",
+      "Gluten-free Crepe, Gunpowder Masala, Fried Egg, Chutney (GF)",
+      "BREAKFAST BOWL 20",
+      "Sunny Egg, Avocado, Crispy Potatoes, Spiced Bacon Onion Chutney (GF)",
+      "EGG & CHEESE MASKA BUN 15",
+      "Buttered Brioche, Masala Eggs, Gruyere Cheese",
+      "+ Add Spiced Maple Bacon Or Lamb Sausage 4",
+      "DESI EGGS BENEDICT 20",
+      "Poached Eggs, Spinach, Gunpowder Hollandaise, Avocado (GF)",
+      "+ Add Spice Cured Salmon 4"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "INDIA HOUSE’S BUTTER CHICKEN 32",
+    "list": [
+      "Tandoor Roasted Chicken, Smoked Tomato Cream Gravy Served with Basmati Rice"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "SWEET STUFF",
+    "list": [
+      "DUTCH BABY PANCAKE 22",
+      "Pineapple Jam, Coconut Cream, Lime",
+      "CARDAMOM WAFFLE 22",
+      "Jaggery Butter, Caramelized Bananas",
+      "SHRIKAND PARFAIT 17",
+      "Vanilla Cardamom Yogurt, Seasonal Fruit, Granola"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "TOASTS & SAMMIES",
+    "list": [
+      "AVOCADO TOAST 18",
+      "Toasted Sour Dough Bread, Cherry Tomato Chaat (V)",
+      "+ Add Fried Or Poached Egg 4",
+      "CHILI CHEESE TOAST 18",
+      "Toasted Sour Dough Bread, Gruyere & Amul Cheese, Chili Chutney (V)",
+      "+ Add Fried Or Poached Egg 4",
+      "MADRAS FRIED CHICKEN SANDWICH 23",
+      "Green Peppercorn Brined Crispy Chicken, Toasted Brioche, Masala Fries",
+      "SINGH 5,Star BURGER 25",
+      "Kebab Seasoned Patty, Gruyere Cheese, Tomato Chutney Masala Fries Or",
+      "Balsamic Greens",
+      "+ Add Fried Egg 4",
+      "+ Add Spiced Bacon Onion Chutney 4"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "ACCOMPANIMENTS",
+    "list": [
+      "Sliced n Spiced Avocado 5",
+      "Masala Fries 8",
+      "2 Side Eggs 10",
+      "Breakfast Potatoes 8",
+      "Spiced Maple Bacon 9",
+      "House Made Lamb Kebab Sausage Patty 10"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "BREADS",
+    "list": [
+      "Butter Or Garlic Naan 8",
+      "Everything Bagel Seasoned Naan 9",
+      "Chili Cheese Naan 10",
+      "Pao 8"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "FOR THE CHILDREN",
+    "list": [
+      "(AGES 10 AND UNDER)",
+      "NAAN PIZZA 12",
+      "Cheese Pizza Served on Our Naan Bread",
+      "MINI CHEESEBURGER 12",
+      "Served with French Fries",
+      "GRILLED CHEESE 12",
+      "Served with French Fries",
+      "CRISPY CHICKEN NUGGETS 12",
+      "Served with French Fries",
+      "CHILD'S MANGO MALAI 5",
+      "Mango Puree, Yogurt",
+      "ORANGE JUICE 5"
+    ]
+  },
+  {
+    "id": 49,
+    "title": "BRUNCH COCKTAILS 16",
+    "list": [
+      "WAKE ME UP IN DELHI",
+      "Espresso, Vanilla Infused Vodka, Mr. Black Cold Brew Coffee Liqueur, Lucano Amaro, Chai Spiced Cream",
+      "GUAVA-MOSA",
+      "Fresh Guava, Giffard Pamplemousse, Fiol Prosecco",
+      "MUMBAI MARY",
+      "SINGH 5'Star Take on a Classic",
+      "*Make it a Mumbai Maria with the substitution of Milagro Silver Tequila*",
+      "SINGH 5'Star SPRITZ",
+      "Aperol, Pellegrino Aranciata Rossa, Riesling",
+      "CHAI ONE ON",
+      "Bartender’s Brunch Shot",
+      "One for 12, Two for 22, Four for 40"
+    ]
+  },
+  {
+    "id": 50,
+    "title": "SPIRIT FORWARD",
+    "list": [
+      "THE OTHER WOMAN 25",
+      "Banhez Mezcal, Laphroaig 10yr Islay Scotch, Blackened Bird’s Eye Chili Tincture, Grapefruit Bitters, Agave",
+      "STARDUST 22",
+      "Kansas Whiskey, Elderflower Liqueur, Amaro Montenegro",
+      "DEEP IN LOVE 20",
+      "Casamigos Reposado, Cachaca, Rose Liqueur, Hisbiscus Syrup, Black Salt",
+      "GOLD NEGRONI 19",
+      "Jaisalmer Gin, Pamplemousse Liqueur, Saffron Liqueur, Sweet Vermouth, Dry Vermouth",
+      "75 SUITORS 19",
+      "Jin-Jiji India Dry Gin, Aperol, Strawberry, Rosemary, Lemon, Eau de Rose, Simple, Prosecco",
+      "MIMI'S MARGARITA 20",
+      "Milagro Silver Tequila, Chile Liqueur, Lime, Bird’s Eye Chili, Cilantro, Agave",
+      "THE GIRL FROM GOA 22",
+      "Genepy Herbetet, Lychee Liqueur, Darjeeling Tea, Lemon, Ginger, Black Peppercorn, Honey, Paprika",
+      "KUCHIPUDI 24",
+      "Mezcal, Elderflower Liqueur, Wasabi, Ginger, Bird’s Eye Chili, Mint, Buzz Button, Lime, Agave",
+      "SPA DAY 19",
+      "Smoke Lab Vodka, Aloe, Cucumber, Lime, Simple, Club Soda",
+      "SMOKED FASHION 20",
+      "Old Grand Dad Bourbon Whiskey, Demerara, Angostura, and Orange Bitters"
+    ]
+  },
+  {
+    "id": 51,
+    "title": "SPIRIT SHY 14",
+    "list": [
+      "PEACH PLEASE",
+      "Peach Puree, Honey, Lime, Ginger Beer",
+      "LYCHEE PARADISE",
+      "Lychee, Darjeeling Black Tea, Lemon, Honey",
+      "MANGO MALAI",
+      "Mango Puree, Yogurt",
+      "KOKUM MOJITO",
+      "Kokum, Mint, Lime, Simple, Soda"
+    ]
+  },
+  {
+    "id": 52,
+    "title": "GIN & TONICS 22",
+    "list": [
+      "NO. 1*",
+      "Bombay Sapphire Gin, French Ginger Liqueur, Saffron, Cinnamon, Peppercorn, Eau de Orange Blossom",
+      "NO. 2*",
+      "Empress Gin, Lychee Liqueur, Lychee, Lemon, Honey",
+      "NO. 3*",
+      "Jin-JiJi India Dry Gin, Elderflower Liqueur, Grapefruit, Mint",
+      "NO. 4*",
+      "Hendricks Gin, Berries, Rose Liqueur, Cynar, Lemon",
+      "*Keep the Straw? +7"
+    ]
+  },
+  {
+    "id": 53,
+    "title": "BEER",
+    "list": [
+      "KINGFISHER PALE LAGER, ABV 4.8% | 8",
+      "FOUNDERS CENTENNIAL IPA, ABV 7.2% | 9",
+      "SAISON DUPONT BELGIUM ALE, ABV 6.5% | 10",
+      "STELLA ARTOIS, ABV 5.2% | 8",
+      "HEINEKEN ZERO, ABV 0.0% | 7"
+    ]
+  },
+  {
+    "id": 54,
+    "title": "WINE BY THE GLASS",
+    "list": [
+      "SPARKLING",
+      "Jeio, Prosecco, Veneto, IT (NV) 19/75",
+      "Fiol Rosé, Prosecco, Veneto, IT (2020) 20/80",
+      "Louis de Sacy, Brut Originel, Champagne, FR (NV) 27/108",
+      "La Battagliola, Lambrusco, Grasparossa, (2021) 19/75",
+      "ROSE",
+      "Peyrassol La Croix, Provance, FR (2021) Rosé 20/80",
+      "Bodegas Muga, Rioja Rosado, SP (2021) Garnacha, Tempranillo 20/80",
+      "WHITE",
+      "Pago del Cielo, Rueda, SP (2020) Verdejo 18/72",
+      "Framingham, Marlborough, NZ (2021) Sauvignon Blanc 21/84",
+      "Domaine Luquet, Saint-Véran, Bourgogne, FR (2020) Chardonnay 21/84",
+      "Von Kisel, Austria (2020) Gruner Veltliner 19/76",
+      "RED",
+      "Côte Saint Jacques, Bourgogne, FR (2020) Pinot Noir 23/92",
+      "Domaine du Beaurenard, Côtes du Rhône, FR (2021) Grenache/Syrah 21/85",
+      "Altos Ibéricos, Rioja Crianza, SP (2017) Tempranillo 19/76",
+      "Silvan Ridge Winery, Rogue Valley, Oregon (2018) Cabernet Sauvignon 24/96"
+    ]
+  },
+  {
+    "id": 55,
+    "title": "PORTS",
+    "list": [
+      "ROYAL TOKAJI, LATE HARVEST TOKAJ 16",
+      "DONA ANTONIA, RESERVA TAWNY 15",
+      "GRAHAM'S 40 TAWNY PORT 45"
+    ]
+  },
+  {
+    "id": 56,
+    "title": "APERITIFS",
+    "list": [
+      "AMARO MONTENEGRO PREMIATA 1885 SPECIALITA, BOLOGNA, ITALY 17",
+      "LUSTAU DON NUÑO SECO DRY JEREZ XÈRÈS SHERRY, SPAIN 15",
+      "CYNAR, AMARO APERITIF AND VERMOUTH, ITALY 17",
+      "FRANGELICO, HAZELNUT AND HERBAL LIQUEUR, ITALY 15",
+      "DISARONNO AMARETTO, ITALY 16",
+      "AVERNA AMARO SICILIANO 1868, ITALY 18",
+      "BAILEYS IRISH CREAM, IRELAND 15",
+      "SAMBUCA ROMANA, ITALY 15"
+    ]
+  }
+]

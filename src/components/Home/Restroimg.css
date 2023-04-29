@@ -1,0 +1,14 @@
+.restu_pic {
+  width: 100%;
+  height: 70vh;
+  background: url("https://d36tnp772eyphs.cloudfront.net/blogs/1/2019/11/THE-DUCHESS.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+}
+.restu_pic .border {
+  width: 100%;
+  height: 100%;
+  border: 2px solid #ffffff;
+}

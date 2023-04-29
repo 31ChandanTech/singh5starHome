@@ -1,0 +1,27 @@
+.menu {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu_title {
+  font-size: 40px;
+  font-weight: 500;
+  color: #3d3a3a;
+  margin-bottom: 40px;
+}
+
+.margin {
+  margin-bottom: 35px;
+}
+
+@media only screen and (max-width: 772px) {
+  .M_menu_navbar ul {
+    flex-wrap: wrap;
+  }
+  .M_menu_navbar ul li {
+    margin: 10px 0;
+  }
+}

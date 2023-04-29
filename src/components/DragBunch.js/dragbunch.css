@@ -1,0 +1,42 @@
+.DragBun {
+  margin: 100px 0 0 0;
+  text-align: center;
+}
+.DragBun img {
+  width: 25vw;
+  margin: 0 0 20px 0;
+}
+.DragBun p {
+  width: 50vw;
+  margin: 10px auto;
+  font-size: 15px;
+  line-height: 20px;
+}
+.DragBun .showdate b {
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .DragBun img {
+    width: 50vw;
+    margin: 0 0 20px 0;
+  }
+  .DragBun p {
+    width: 70vw;
+    margin: 10px auto;
+    font-size: 15px;
+    line-height: 20px;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .DragBun img {
+    width: 90vw;
+    margin: 0 0 20px 0;
+  }
+  .DragBun p {
+    width: 75vw;
+    margin: 10px auto;
+    font-size: 15px;
+    line-height: 20px;
+  }
+}

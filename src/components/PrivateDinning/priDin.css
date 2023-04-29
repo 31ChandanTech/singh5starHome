@@ -1,0 +1,144 @@
+.privatedinning {
+  text-align: center;
+  margin: 0 0 35px 0;
+  z-index: 3;
+}
+.privatedinning .PDBanner {
+  width: 100%;
+}
+.privatedinning .PDBanner img {
+  width: 100%;
+  height: 100%;
+}
+.privatedinning .restroPic {
+  width: 50%;
+  margin: auto;
+}
+.privatedinning .restroPic img {
+  width: 100%;
+  height: 100%;
+}
+.privatedinning .PDpara {
+  margin: 25px 0;
+  font-size: 16px;
+}
+
+.btnPD {
+  padding: 10px 60px;
+  background: none;
+  border: 0.5px solid #3d3a3a;
+  border-radius: 25px;
+  transition: 0.3s ease-in;
+  cursor: pointer;
+}
+.btnPD:hover {
+  background: #3d3a3a;
+  color: #fff;
+}
+
+/* Form css */
+
+.Dinning_form {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9));
+  padding: 100px 0;
+  overflow-y: scroll;
+}
+.Dinning_form_Dnone {
+  display: none;
+}
+.Dinning_form::-webkit-scrollbar {
+  display: none;
+}
+.Dinning_form .Dcross {
+  font-size: 50px;
+  color: #fff;
+  position: absolute;
+  top: 10px;
+  right: 35px;
+  cursor: pointer;
+  transition: 0.3s ease-in;
+}
+.Dinning_form .Dcross:hover {
+  color: red;
+}
+.Dinning_form .Dform {
+  width: 50vw;
+  margin: auto;
+}
+.Dinning_form .Dform .DformTitle {
+  color: #fff;
+  text-decoration: none;
+  margin: 50px 0;
+}
+.Dinning_form .Dform .DinputBox {
+  width: 100%;
+  margin: 20px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.Dinning_form .Dform .DinputBox label {
+  color: #fff;
+  font-size: 18px;
+}
+.Dinning_form .Dform .DinputBox label span {
+  color: red;
+  font-size: 20px;
+}
+.Dinning_form .Dform .totaltime {
+  display: flex;
+}
+.Dinning_form .Dform .DinputBox input,
+textarea {
+  width: 100%;
+  height: 35px;
+  border: 0.5px solid blue;
+  border-radius: 6px;
+  outline: none;
+  padding: 0 20px;
+}
+.Dinning_form .Dform .DinputBox textarea {
+  height: 120px;
+  resize: none;
+  padding: 10px 20px;
+}
+
+.PDbtn {
+  padding: 15px 20px;
+  background: none;
+  border: 1px solid #ffffff;
+  border-radius: 25px;
+  transition: 0.3s ease-in;
+  cursor: pointer;
+  color: #fff;
+  font-size: 18px;
+}
+.PDbtn:hover {
+  border: 1px solid red;
+  color: #08f327;
+}
+
+@media only screen and (max-width: 1103px) {
+  .Dinning_form .Dform {
+    width: 80vw;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 689px) {
+  .Dinning_form .Dform {
+    width: 95vw;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 581px) {
+  .Dinning_form .Dform .DformTitle {
+    font-size: 5vw;
+  }
+}

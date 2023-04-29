@@ -1,0 +1,23 @@
+.heroSection {
+  width: 60%;
+  height: 80vh;
+  margin: 0.5vh auto;
+  background: url("https://t3.ftcdn.net/jpg/02/36/18/40/360_F_236184014_2HPze7us0YDnljLpYaCkdHzqFqn7YMNR.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0 0 3px 3px rgba(225, 225, 225, 0.3);
+}
+.heroSection .text {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(153, 51, 131);
+  padding: 15px 0 0 0;
+  font-weight: 500;
+}
+
+@media only screen and (max-width: 900px) {
+  .heroSection {
+    width: 95%;
+  }
+}
