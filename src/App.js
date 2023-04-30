@@ -29,7 +29,7 @@ function App() {
       <Header />
       <ScrolToTop />
       <Routes>
-        <Route path='/singh5star/' element={<Home />} />
+        <Route path='/singh5starHome/' element={<Home />} />
         <Route path='/menu' element={<Menu />} />
         <Route path='/menu/golden-hour' element={<GoldenHour />} />
         <Route path='/menu/dinner' element={<Dinner />} />
