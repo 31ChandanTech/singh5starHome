@@ -9,7 +9,7 @@ const HamburgerMenu = ({ listArray, classlist, oncloseMenu }) => {
       <i className="fa-sharp fa-solid fa-square-xmark" onClick={oncloseMenu}></i>
       <nav className="Mnavbar">
         <ul>
-          <Navbar key={IdTime} listArray={listArray} />
+          <Navbar CloseSlideNavebar={oncloseMenu} key={IdTime} listArray={listArray} />
         </ul>
       </nav>
     </div>
