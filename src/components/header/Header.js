@@ -57,7 +57,7 @@ const Header = () => {
                   styleclass="btn"
                   onClicked={() =>
                     logout({
-                      logoutParams: { returnTo: window.location.origin },
+                      logoutParams: { returnTo: window.location.href },
                     })
                   }
                   text="Log Out"
